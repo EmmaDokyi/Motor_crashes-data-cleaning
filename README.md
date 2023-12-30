@@ -1,2 +1,2 @@
-# Data-wrangling
-This contains projects and codes for cleaning and wrangling data for easy use and further analysis 
+# Data cleaning and Transformation
+This contains python script for cleaning and transforming data for easy and further analysis 
